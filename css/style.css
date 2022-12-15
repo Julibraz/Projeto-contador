@@ -1,5 +1,6 @@
 *{
     font-family: 'open sans', sans-serif;
+    color: white;
 }
 
 body{
@@ -7,15 +8,15 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color: rgb(177, 255, 255);
+    background-color: black;
 }
 
 button{
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    border: 2px solid lightcoral;
-    color: lightcoral;
+    border: 2px solid rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
     font-size: 16pt;
     font-weight: 600;
     text-align: center;
